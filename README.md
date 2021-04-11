@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./docs/tsc.png" width="280px" alt="aino" />
+  <img src="./docs/tsc.png" width="140px" alt="aino" />
   <h3>A TypeScript Collection</h3>
   <p>A collection of common JavaScript / TypeScript utils for TypeScript</p>
 
